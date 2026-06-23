@@ -1,3 +1,9 @@
+---
+layout: default
+has_children: false
+parent: Guides
+title: Installing Nomad Mods
+---
 # How to install mods for Nomad 
 
 ## Prefered Installation

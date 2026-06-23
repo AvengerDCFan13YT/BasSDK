@@ -1,3 +1,9 @@
+---
+layout: default
+has_children: false
+parent: Guides
+title: Load map on startup
+---
 # How to load into a map on startup PCVR
 
 ## Steam

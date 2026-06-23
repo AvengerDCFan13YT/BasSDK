@@ -1,3 +1,9 @@
+---
+layout: default
+has_children: false
+parent: Guides
+title: Installing PCVR Mods
+---
 # How to install mods for PCVR
 
 In-game, you can go to the "Mods" section in the Main Menu, and install mods through this, which will be installed and updated automatically. These mods are uploaded from [Mod.io](https://mod.io/g/blade-and-sorcery).
