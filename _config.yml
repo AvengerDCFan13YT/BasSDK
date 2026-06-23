@@ -2,7 +2,7 @@ title: bas-wiki
 lang: en
 description: Blade and Sorcery Wiki
 repository: KospY/BasSDK
-remote_theme: rundocs/jekyll-rtd-theme
+remote_theme: clearpathrobotics/jekyll-rtd-theme
 
 defaults:
   # Add styling to all pages front matter
