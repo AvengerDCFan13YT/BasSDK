@@ -30,3 +30,30 @@ plugins:
   - jekyll-avatar
   - jekyll-mentions
   - jekyll-github-metadata
+
+# just the docs config
+
+nav_enabled: true
+
+# Color scheme supports "light" (default) and "dark"
+color_scheme: dark
+
+callouts:
+  note:
+    title: Note
+    color: purple
+  tip:
+    title: Tip
+    color: grey-lt
+  warning:
+    title: Warning
+    color: yellow
+  danger:
+    title: Danger
+    color: red
+  important:
+    title: Important
+    color: blue
+  new:
+    title: New
+    color: green
